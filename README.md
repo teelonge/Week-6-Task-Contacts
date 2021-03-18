@@ -1,5 +1,5 @@
 # Firebase-Storage-and-Requesting-Permission
-Using firebase for real time storage and synch of contacts and also requesting for users permission at runtime before accesing phone contacts
+Using firebase for real time storage and synch of contacts and also requesting for users permission at runtime before accessing phone contacts
 
 A contact application with pages to show a list of your saved contact, add contacts and a contact details page where you can edit, call, share and delete contacts . Using 
 firebase as the data store.
